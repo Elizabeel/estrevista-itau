@@ -30,6 +30,6 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontra os trabalhos que re
 
 ## Contato
 
-- LinkedIn: [Seu perfil]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/elizabeteoliveirasantos/))
+- [LinkedIn](https://www.linkedin.com/in/elizabeteoliveirasantos/)
 
 
