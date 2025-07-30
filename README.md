@@ -7,7 +7,7 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontra os trabalhos que re
 - Ciência da Computação - Universidade Nove de Julho
 - Previsão de conclusão: 07/2026
 
-## Experiências Acadêmicas e Projetos
+## Experiências Acadêmicas e Projetos relevantes
 
 ### Pet House: Projeto desenvolvido na faculdade
 
