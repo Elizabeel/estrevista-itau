@@ -1,4 +1,4 @@
-# Portfólio - Elizabete
+# Portfólio - Elizabete de Oliveira
 
 Bem-vindo ao meu portfólio de projetos! Aqui você encontra os trabalhos que realizei durante a faculdade, assim como projetos práticos e minha participação em hackathon.
 
